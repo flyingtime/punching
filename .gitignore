@@ -8,4 +8,5 @@ src/launchpad.net
 src/gopkg.in
 .idea/
 *.test
+.DS_Store
 src/punching/log/
